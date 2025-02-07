@@ -1,0 +1,17 @@
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\bin\Release\net8.0-windows\AutoClickerFinal.exe
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\bin\Release\net8.0-windows\AutoClickerFinal.deps.json
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\bin\Release\net8.0-windows\AutoClickerFinal.runtimeconfig.json
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\bin\Release\net8.0-windows\AutoClickerFinal.dll
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\bin\Release\net8.0-windows\AutoClickerFinal.pdb
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\AutoClickerFinal.Form1.resources
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\AutoClickerFinal.Properties.Resources.resources
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\AutoClickerFinal.csproj.GenerateResource.cache
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\AutoClickerFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\AutoClickerFinal.AssemblyInfoInputs.cache
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\AutoClickerFinal.AssemblyInfo.cs
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\AutoClickerFinal.csproj.CoreCompileInputs.cache
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\AutoClickerFinal.dll
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\refint\AutoClickerFinal.dll
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\AutoClickerFinal.pdb
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\AutoClickerFinal.genruntimeconfig.cache
+C:\Users\bjon6\source\repos\AutoClickerFinal\AutoClickerFinal\obj\Release\net8.0-windows\ref\AutoClickerFinal.dll
