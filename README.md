@@ -1,7 +1,7 @@
 # JonsAutoClicker
 This is the best auto clicker ever made, clean functional GUI with a ton of funtions.
 
-Features
+Features \n
 Adjustable Click Interval
 Easily control the speed of your clicks by customizing the time interval between each automated click. Whether you need rapid-fire clicks or slower, deliberate presses, JonsAutoClicker can handle it.
 
