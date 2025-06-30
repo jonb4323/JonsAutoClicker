@@ -24,9 +24,10 @@ bash <br/>
 Copy <br/>
 Edit <br/>
 git clone https://github.com/jonb4323/JonsAutoClicker.git <br/>
+
 Open the solution file in Visual Studio. <br/>
 
-Build the project and run the executable.
+Build the project and run the executable. <br/>
 
 
 
